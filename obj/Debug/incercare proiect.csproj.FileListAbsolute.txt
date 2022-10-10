@@ -1,0 +1,13 @@
+C:\Users\acasa\Desktop\PAW\incercare proiect\incercare proiect\bin\Debug\incercare proiect.exe.config
+C:\Users\acasa\Desktop\PAW\incercare proiect\incercare proiect\bin\Debug\incercare proiect.exe
+C:\Users\acasa\Desktop\PAW\incercare proiect\incercare proiect\bin\Debug\incercare proiect.pdb
+C:\Users\acasa\Desktop\PAW\incercare proiect\incercare proiect\obj\Debug\incercare proiect.csprojAssemblyReference.cache
+C:\Users\acasa\Desktop\PAW\incercare proiect\incercare proiect\obj\Debug\incercare_proiect.Form1.resources
+C:\Users\acasa\Desktop\PAW\incercare proiect\incercare proiect\obj\Debug\incercare_proiect.Properties.Resources.resources
+C:\Users\acasa\Desktop\PAW\incercare proiect\incercare proiect\obj\Debug\incercare proiect.csproj.GenerateResource.cache
+C:\Users\acasa\Desktop\PAW\incercare proiect\incercare proiect\obj\Debug\incercare proiect.csproj.CoreCompileInputs.cache
+C:\Users\acasa\Desktop\PAW\incercare proiect\incercare proiect\obj\Debug\incercare proiect.exe
+C:\Users\acasa\Desktop\PAW\incercare proiect\incercare proiect\obj\Debug\incercare proiect.pdb
+C:\Users\acasa\Desktop\PAW\incercare proiect\incercare proiect\obj\Debug\incercare_proiect.FormProfesor.resources
+C:\Users\acasa\Desktop\PAW\incercare proiect\incercare proiect\obj\Debug\incercare_proiect.FormDiscipline.resources
+C:\Users\acasa\Desktop\PAW\incercare proiect\incercare proiect\obj\Debug\incercare_proiect.FormNote.resources
